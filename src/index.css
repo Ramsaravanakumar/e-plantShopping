@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+  background: #f4f4f4;
+}
+
+header {
+  background: #cce5cc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.plant-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem 0;
+  background: white;
+}
+
+img {
+  width: 100px;
+  height: auto;
+}
