@@ -1,6 +1,6 @@
 {
-  "name": "e-plantShopping",
-  "homepage": "https://ramsaravanakumar.github.io/e-plantShopping",
+  "name": "plant-store",
+  "homepage": "https://ramsaravanakumar.github.io/plant-store",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
